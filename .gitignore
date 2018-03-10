@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+# personal files
+env.js
+ssl/
+node_pkg/
